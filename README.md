@@ -1,3 +1,3 @@
 # display-users
 Vanilla.JS  basit CRUD uygulaması
-![](./ss1.png)
+![](ss/p1.png)
